@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="faaca28c-adc7-4e41-a8bf-42d8e84abb48" name="Default Changelist" comment="Создание стилей с помощью reactstrap">
+    <list default="true" id="faaca28c-adc7-4e41-a8bf-42d8e84abb48" name="Default Changelist" comment="Реализация функционала для удаления поста">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/app-header/app-header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/app-header/app-header.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/app/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/app/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/post-add-form/post-add-form.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/post-add-form/post-add-form.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/post-list-item/post-list-item.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/post-list-item/post-list-item.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/post-list/post-list.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/post-list/post-list.js" afterDir="false" />
     </list>
@@ -82,7 +84,8 @@
       <workItem from="1622983239292" duration="5000" />
       <workItem from="1623000190831" duration="6662000" />
       <workItem from="1623087029309" duration="2993000" />
-      <workItem from="1623170048272" duration="2588000" />
+      <workItem from="1623170048272" duration="4789000" />
+      <workItem from="1623350501484" duration="3907000" />
     </task>
     <task id="LOCAL-00001" summary="Создание React приложения&#10;Создание простой формы">
       <created>1622922080070</created>
@@ -105,7 +108,14 @@
       <option name="project" value="LOCAL" />
       <updated>1623090539063</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Реализация функционала для удаления поста">
+      <created>1623172688389</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1623172688389</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -154,7 +164,8 @@
     <MESSAGE value="Создание React приложения&#10;Создание простой формы" />
     <MESSAGE value="Изменение свойств и состояний компонентов" />
     <MESSAGE value="Создание стилей с помощью reactstrap" />
-    <option name="LAST_COMMIT_MESSAGE" value="Создание стилей с помощью reactstrap" />
+    <MESSAGE value="Реализация функционала для удаления поста" />
+    <option name="LAST_COMMIT_MESSAGE" value="Реализация функционала для удаления поста" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/index.css">
